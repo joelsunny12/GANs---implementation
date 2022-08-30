@@ -6,5 +6,17 @@ Implementation of GANs research paper.
 
 This implementation tries to produce fake MNIST dataset using GANs.
 
-### Running
+
+
+
+### Running:
+
+
+### Research Paper Implemented:
+
+Generative Adversarial Networks (2014) - https://arxiv.org/abs/1406.2661
+
+
+
+### Result:
 ![PHOTO_ALT](output/9600.png)
