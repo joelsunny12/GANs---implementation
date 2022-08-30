@@ -12,6 +12,7 @@ This implementation tries to produce fake MNIST dataset using GANs.
 ### Working:
 
 ![PHOTO_ALT](output/18400.png)
+![Screenshot (60)](https://user-images.githubusercontent.com/73614371/187458792-26f3d834-5cb6-490f-b84e-5676b5984a49.png)
 
 
 
