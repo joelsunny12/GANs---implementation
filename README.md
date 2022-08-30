@@ -19,4 +19,4 @@ Generative Adversarial Networks (2014) - https://arxiv.org/abs/1406.2661
 
 
 ### Result:
-![PHOTO_ALT](output/9600.png)
+![PHOTO_ALT](output/18400.png)
