@@ -1,4 +1,4 @@
-# GANs-implementation
+# GANs-Implementation
   
 Implementation of GANs research paper.
 
