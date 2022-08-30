@@ -9,7 +9,10 @@ This implementation tries to produce fake MNIST dataset using GANs.
 
 
 
-### Running:
+### Working:
+
+![PHOTO_ALT](output/18400.png)
+
 
 
 ### Research Paper Implemented:
