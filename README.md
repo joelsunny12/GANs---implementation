@@ -7,4 +7,4 @@ Implementation of GANs research paper.
 This implementation tries to produce fake MNIST dataset using GANs.
 
 ### Running
-![PHOTO_ALT](C:\Users\joels\Downloads\output\content\output)
+![PHOTO_ALT](output/9600.png)
